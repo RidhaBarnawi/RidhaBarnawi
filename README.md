@@ -136,7 +136,6 @@ current_goals = {
         "DevOps & CI/CD Pipelines"
     ],
     "building": [
-        "Full-Stack Web Applications",
         "Mobile Apps with React Native",
         "Data Analytics Dashboards",
         "AI-Powered Solutions"
