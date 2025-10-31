@@ -116,9 +116,9 @@ const ridha = {
 
 ## 🎯 Featured Projects
 
-### 🌟 [Project Name Coming Soon]
-**Description:** Building innovative solutions that matter  
-**Tech Stack:** React Native, Node.js, MongoDB  
+### 🌟 Arabic-English Text Analysis Platform
+**Description:** A full-stack NLP application for sentiment analysis, named entity recognition, and text classification supporting both Arabic and English languages.  
+**Tech Stack:** Python • FastAPI • PyTorch • Transformers • React • PostgreSQL • Docker  
 **Status:** 🚧 In Development
 
 > 💡 **Currently working on:** Exciting projects that combine AI, data analytics, and web development. Stay tuned!
